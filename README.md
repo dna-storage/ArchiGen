@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/721365800.svg)](https://zenodo.org/doi/10.5281/zenodo.10162601)
+
 Repository with simulator code used in paper "Reducing Read Amplification and Re-synthesis in DNA-based Archival Storage".
 
 # Reproducing results from the paper
